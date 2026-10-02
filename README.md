@@ -23,6 +23,8 @@ npx get-shit-done-cc@latest
 
 ![GSD Install](assets/terminal.svg)
 
+> Built by [Girish Lade](https://ladestack.in) — maintained copy of the GSD open-source project.
+
 </div>
 
 ---
